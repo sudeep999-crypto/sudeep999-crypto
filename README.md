@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sudeep999-crypto
+- 👋 Hi, I’m SUDEEP DAS
 - 👀 I’m interested in making amazing websites and want to learn more about programming and my pathway is freelancing
 - 🌱 I’m currently learning full stack web development
+- I'm a student in IIT MADRAS
 - 💞️ I’m looking to collaborate on your project. If you think i am capable , please contact with me.
 - 📫 you can reach me through my emails , given below
 - sudeepdas851@gmail.com
