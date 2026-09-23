@@ -1,5 +1,5 @@
-- I'm a student in IIT MADRAS
-- 💞️ I’m looking to collaborate on your project. If you think i am capable , please contact with me.
+- I'm a student at IIT MADRAS
+
 
 
 
